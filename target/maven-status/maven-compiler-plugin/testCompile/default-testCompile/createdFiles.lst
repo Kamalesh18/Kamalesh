@@ -1,0 +1,12 @@
+adactin\pom\Last_Page.class
+com\adactin\helper\PageObjectManager.class
+com\adactin\runner\TestRunner.class
+com\adactin\runner\Runner.class
+com\adactin\stepdefinition\Hooks.class
+adactin\pom\Payment_Page.class
+adactin\pom\Selection_Page.class
+com\adactin\helper\Configuration_Reader.class
+com\adactin\helper\Filereadermanager.class
+adactin\pom\Login_Page.class
+com\adactin\stepdefinition\Sd_Adactin.class
+adactin\pom\Search_Page.class
